@@ -1,0 +1,13 @@
+# Lean
+/build/
+/.lake/
+lake-manifest.json
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.swp
+*.swo
+
